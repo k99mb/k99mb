@@ -9,6 +9,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-8B0000?&style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
 </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Zoufan.png" alt="Your Image Badge" />
 
 
 
