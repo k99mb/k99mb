@@ -11,6 +11,7 @@
 </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Zoufan.png" alt="Your Image Badge" />
 
+ <img src="https://i.ibb.co/Jc9y7SM/giphy.webp" alt="giphy" data-is360="0" width="500" height="240">
 
 
 
